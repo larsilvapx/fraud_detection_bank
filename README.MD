@@ -118,7 +118,7 @@ Em breve:
 ## Clone o projeto
 
 ```bash
-git clone https://github.com/SEU-USUARIO/fraud_detection_bank.git
+git clone https://github.com/larsilvapx/fraud_detection_bank
 ```
 
 ## Crie o ambiente virtual
