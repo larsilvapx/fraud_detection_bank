@@ -1,20 +1,26 @@
+# Ambiente virtual
+.venv/
 venv/
+
+# Python
 __pycache__/
 *.pyc
 
+# Jupyter
 .ipynb_checkpoints/
 
+# Modelos treinados
+models/*.pkl
+
+# Dados processados
 data/processed/
 
-models/
+# Dataset original
+data/raw/creditcard.csv
 
+# VS Code
+.vscode/
+
+# Sistema
 .DS_Store
-
-# Ambiente virtual
-.venv/
-
-# Dados
-data/raw/
-
-# Arquivos do Jupyter
-.ipynb_checkpoints/
+Thumbs.db
