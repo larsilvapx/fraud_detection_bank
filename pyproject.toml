@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fraud_detection_bank"
+version = "1.0.0"
+description = "Projeto de Detecção de Fraudes Bancárias"
+readme = "README.md"
+requires-python = ">=3.11"
+
+authors = [
+    {name = "Luciano Arruda Rodrigues da Silva"}
+]
+
+[tool.setuptools]
+packages = ["src"]

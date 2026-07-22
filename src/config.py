@@ -48,3 +48,8 @@ ROC_CURVE_IMAGE = IMAGES_DIR / "roc_curve.png"
 FEATURE_IMPORTANCE_IMAGE = IMAGES_DIR / "feature_importance.png"
 
 MODEL_COMPARISON_IMAGE = IMAGES_DIR / "model_comparison.png"
+
+
+from src.report import gerar_relatorio
+
+print("OK")

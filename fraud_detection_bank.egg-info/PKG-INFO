@@ -1,3 +1,11 @@
+Metadata-Version: 2.4
+Name: fraud_detection_bank
+Version: 1.0.0
+Summary: Projeto de Detecção de Fraudes Bancárias
+Author: Luciano Arruda Rodrigues da Silva
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+
 # 🛡️ Fraud Detection in Banking Transactions
 
 Sistema de detecção de fraudes em transações bancárias utilizando Machine Learning com Python.
@@ -118,7 +126,7 @@ Em breve:
 ## Clone o projeto
 
 ```bash
-git clone https://github.com/larsilvapx/fraud_detection_bank
+git clone https://github.com/SEU-USUARIO/fraud_detection_bank.git
 ```
 
 ## Crie o ambiente virtual
@@ -190,7 +198,4 @@ LinkedIn:
 https://linkedin.com/in/lucasards
 
 GitHub:
-https://github.com/SEU-USUARIO
-
 https://github.com/larsilvapx/Luciano-Arruda
-
